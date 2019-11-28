@@ -10,6 +10,7 @@
 
 ### Reference ###
 
-http://jiangren.com.au
+It's a website to introduce myself
+Using CSS/HTML/BootStrap to Style it
 
 ##
